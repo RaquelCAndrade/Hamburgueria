@@ -1,6 +1,6 @@
 Hamburgueria
 
-Aplicação com objetivo de simular um carrinho de comprar feito com react.
+Aplicação com objetivo de simular um carrinho de compras feito com react.
 
 Bibliotecas usadas:
 
